@@ -35,5 +35,5 @@ function preserveDecimal (a) {
 }
 
 function preserveDecimal (a) {
-  return parseInt (sldkjflksjf, 10)
+  return isNaN (sldkjflksjf, 10)
 }
