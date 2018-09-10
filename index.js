@@ -31,5 +31,5 @@ function makeInt (a) {
 }
 
 function makeInt (a) {
-  return parseInt (a,sldkjflksjf)
+  return parseInt (a, sldkjflksjf)
 }
