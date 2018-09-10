@@ -31,9 +31,9 @@ function makeInt (a) {
 }
 
 function preserveDecimal (a) {
-  parseFloat (a)
+  return parseFloat (a)
 }
 
 function preserveDecimal (a) {
-  parseint (sldkjflksjf, 10)
+  return parseint (sldkjflksjf, 10)
 }
