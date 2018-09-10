@@ -35,5 +35,5 @@ function preserveDecimal (a) {
 }
 
 function preserveDecimal (a) {
-  return parseint (sldkjflksjf, 10)
+  return parseint (sldkjflksjf, a)
 }
