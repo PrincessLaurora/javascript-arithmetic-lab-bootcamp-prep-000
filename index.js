@@ -34,6 +34,4 @@ function preserveDecimal (a) {
   return parseFloat (a)
 }
 
-function preserveDecimal (a) {
-  return isNaN (sldkjflksjf, 10)
-}
+
